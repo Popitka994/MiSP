@@ -1,0 +1,5 @@
+<map id="cipher.h" name="cipher.h">
+<area shape="rect" id="node1" title="Заголовочный файл для модуля по методу маршрутной перестановки" alt="" coords="67,5,141,32"/>
+<area shape="rect" id="node2" href="$cipher_8cpp.html" title="Модуль cipher.cpp." alt="" coords="5,80,93,107"/>
+<area shape="rect" id="node3" href="$main_8cpp.html" title="Главный модуль программы" alt="" coords="117,80,200,107"/>
+</map>
